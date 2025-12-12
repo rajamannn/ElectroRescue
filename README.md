@@ -2,7 +2,7 @@
 ### **Don’t Throw – Re-Grow**
 
 🔗 **Live Demo:** https://electrorescue.netlify.app/  
-📦 **GitHub Repository:** https://github.com/rajamannn/ElectroRescue  
+
 
 ---
 
